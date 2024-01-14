@@ -11,6 +11,7 @@
 		4057E54A2B5461A600DE6707 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4057E5492B5461A600DE6707 /* ContentView.swift */; };
 		4057E54C2B5461A800DE6707 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4057E54B2B5461A800DE6707 /* Assets.xcassets */; };
 		4057E54F2B5461A800DE6707 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4057E54E2B5461A800DE6707 /* Preview Assets.xcassets */; };
+		4057E5562B546AF500DE6707 /* ReadingControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4057E5552B546AF500DE6707 /* ReadingControlsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4057E5492B5461A600DE6707 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4057E54B2B5461A800DE6707 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4057E54E2B5461A800DE6707 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4057E5552B546AF500DE6707 /* ReadingControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingControlsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4057E5472B5461A600DE6707 /* AccessibilityPracticeApp.swift */,
 				4057E5492B5461A600DE6707 /* ContentView.swift */,
+				4057E5552B546AF500DE6707 /* ReadingControlsView.swift */,
 				4057E54B2B5461A800DE6707 /* Assets.xcassets */,
 				4057E54D2B5461A800DE6707 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4057E54A2B5461A600DE6707 /* ContentView.swift in Sources */,
+				4057E5562B546AF500DE6707 /* ReadingControlsView.swift in Sources */,
 				4057E5482B5461A600DE6707 /* AccessibilityPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
