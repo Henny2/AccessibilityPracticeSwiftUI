@@ -12,7 +12,8 @@ struct AccessibilityPracticeApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            ReadingControlsView()
+//            ReadingControlsView()
+            VoiceControlView()
         }
     }
 }

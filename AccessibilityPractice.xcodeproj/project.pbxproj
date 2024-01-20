@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4046D7842B5B6104002633DA /* VoiceControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4046D7832B5B6104002633DA /* VoiceControlView.swift */; };
 		4057E5482B5461A600DE6707 /* AccessibilityPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4057E5472B5461A600DE6707 /* AccessibilityPracticeApp.swift */; };
 		4057E54A2B5461A600DE6707 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4057E5492B5461A600DE6707 /* ContentView.swift */; };
 		4057E54C2B5461A800DE6707 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4057E54B2B5461A800DE6707 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4046D7832B5B6104002633DA /* VoiceControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceControlView.swift; sourceTree = "<group>"; };
 		4057E5442B5461A600DE6707 /* AccessibilityPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccessibilityPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4057E5472B5461A600DE6707 /* AccessibilityPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityPracticeApp.swift; sourceTree = "<group>"; };
 		4057E5492B5461A600DE6707 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				4057E5472B5461A600DE6707 /* AccessibilityPracticeApp.swift */,
 				4057E5492B5461A600DE6707 /* ContentView.swift */,
 				4057E5552B546AF500DE6707 /* ReadingControlsView.swift */,
+				4046D7832B5B6104002633DA /* VoiceControlView.swift */,
 				4057E54B2B5461A800DE6707 /* Assets.xcassets */,
 				4057E54D2B5461A800DE6707 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				4057E54A2B5461A600DE6707 /* ContentView.swift in Sources */,
 				4057E5562B546AF500DE6707 /* ReadingControlsView.swift in Sources */,
 				4057E5482B5461A600DE6707 /* AccessibilityPracticeApp.swift in Sources */,
+				4046D7842B5B6104002633DA /* VoiceControlView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
